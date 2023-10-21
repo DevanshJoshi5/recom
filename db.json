@@ -1,117 +1,94 @@
-[
+{
+  "reviews": [
     {
-        "cafeId": 1,
-        "reviews": [
-            {
-                "reviewId": 1,
-                "userName": "Alice",
-                "rating": 5,
-                "review": "I absolutely love this cafe! The coffee is fantastic, and the atmosphere is cozy."
-            },
-            {
-                "reviewId": 2,
-                "userName": "Bob",
-                "rating": 4,
-                "review": "Great place for a cup of coffee and some pastries. Friendly staff!"
-            },
-            {
-                "reviewId": 3,
-                "userName": "Charlie",
-                "rating": 5,
-                "review": "I visit this cafe regularly. The coffee here never disappoints."
-            }
-        ]
+      "id": 1,
+      "name": "John Doe",
+      "rating": 4,
+      "review": "Great coffee and atmosphere!"
     },
     {
-        "cafeId": 2,
-        "reviews": [
-            {
-                "reviewId": 4,
-                "userName": "David",
-                "rating": 4,
-                "review": "The coffee is good, but it can get a bit crowded during the lunch rush."
-            },
-            {
-                "reviewId": 5,
-                "userName": "Eva",
-                "rating": 5,
-                "review": "Wonderful place to relax and enjoy a latte. They have great Wi-Fi!"
-            },
-            {
-                "reviewId": 6,
-                "userName": "Frank",
-                "rating": 3,
-                "review": "Decent coffee, but the prices are a bit high for my taste."
-            }
-        ]
+      "id": 2,
+      "name": "Jane Smith",
+      "rating": 5,
+      "review": "I love this place! Best coffee in town."
     },
     {
-        "cafeId": 3,
-        "reviews": [
-            {
-                "reviewId": 7,
-                "userName": "Grace",
-                "rating": 4,
-                "review": "The ambiance here is lovely. Perfect spot for a coffee date."
-            },
-            {
-                "reviewId": 8,
-                "userName": "Helen",
-                "rating": 5,
-                "review": "I can't get enough of their cappuccinos. Top-notch quality!"
-            },
-            {
-                "reviewId": 9,
-                "userName": "Ian",
-                "rating": 3,
-                "review": "Coffee is good, but I wish they had more options for pastries."
-            }
-        ]
+      "id": 3,
+      "name": "Mike Johnson",
+      "rating": 3,
+      "review": "Coffee was good, but service could be faster."
     },
     {
-        "cafeId": 4,
-        "reviews": [
-            {
-                "reviewId": 10,
-                "userName": "Jack",
-                "rating": 5,
-                "review": "This cafe is a hidden gem! The espresso is divine, and the staff is friendly."
-            },
-            {
-                "reviewId": 11,
-                "userName": "Karen",
-                "rating": 4,
-                "review": "The coffee here is worth the visit. Great place to start your day."
-            },
-            {
-                "reviewId": 12,
-                "userName": "Larry",
-                "rating": 3,
-                "review": "The coffee shop is decent, but it can be a bit noisy during peak hours."
-            }
-        ]
+      "id": 4,
+      "name": "Emily Brown",
+      "rating": 4,
+      "review": "Nice place to work and enjoy a cup of coffee."
     },
     {
-        "cafeId": 5,
-        "reviews": [
-            {
-                "reviewId": 13,
-                "userName": "Megan",
-                "rating": 5,
-                "review": "I love their iced coffee! It's the perfect way to cool down on a hot day."
-            },
-            {
-                "reviewId": 14,
-                "userName": "Nathan",
-                "rating": 4,
-                "review": "A nice place to work or study with a cup of joe. Great atmosphere."
-            },
-            {
-                "reviewId": 15,
-                "userName": "Olivia",
-                "rating": 5,
-                "review": "The baristas here are skilled, and the coffee always tastes excellent."
-            }
-        ]
+      "id": 5,
+      "name": "Chris Wilson",
+      "rating": 5,
+      "review": "Friendly staff and delicious pastries!"
+    },
+    {
+      "id": 6,
+      "name": "Alicia Davis",
+      "rating": 4,
+      "review": "Cozy cafe with a good selection of drinks."
+    },
+    {
+      "id": 7,
+      "name": "Sam Green",
+      "rating": 4,
+      "review": "Enjoyed the cappuccino. Will visit again."
+    },
+    {
+      "id": 8,
+      "name": "Olivia White",
+      "rating": 5,
+      "review": "Perfect place to relax with a book."
+    },
+    {
+      "id": 9,
+      "name": "Daniel Taylor",
+      "rating": 3,
+      "review": "Coffee could be hotter."
+    },
+    {
+      "id": 10,
+      "name": "Sophia Lee",
+      "rating": 5,
+      "review": "Excellent service and coffee!"
+    },
+    {
+      "id": 11,
+      "name": "Ethan Hall",
+      "rating": 4,
+      "review": "Nice ambiance, good for meetings."
+    },
+    {
+      "id": 12,
+      "name": "Lily Adams",
+      "rating": 5,
+      "review": "My favorite coffee spot in town."
+    },
+    {
+      "id": 13,
+      "name": "David Clark",
+      "rating": 3,
+      "review": "Decent coffee, but limited pastry options."
+    },
+    {
+      "id": 14,
+      "name": "Mia Turner",
+      "rating": 4,
+      "review": "Relaxing music and comfortable seating."
+    },
+    {
+      "id": 15,
+      "name": "James Parker",
+      "rating": 4,
+      "review": "Good value for money."
     }
-]
+  ]
+}
